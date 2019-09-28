@@ -28,6 +28,11 @@ a:active {
 }
 
 
+.logo-svg{
+	width: 100px;
+	height: 100px;
+}
+
 .content_padding {
 	padding-top: 4.5rem /*!main_margin*/;
 	padding-bottom: 4.5rem /*!main_margin*/;
