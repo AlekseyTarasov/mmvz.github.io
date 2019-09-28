@@ -5,6 +5,7 @@
 body {
     cursor: url("../images/icone_fleche.png"), pointer;
     background-color: black;
+	color: rgba(255, 255, 255, 0.95);
 }
 
 a {
