@@ -28,9 +28,9 @@ a:active {
 }
 
 
-.logo-svg{
-	width: 100px;
-	height: 100px;
+.logo-svg img{
+	width: 200px;
+	height: 200px;
 }
 
 .content_padding {
