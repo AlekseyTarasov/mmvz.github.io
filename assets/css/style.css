@@ -1,3 +1,27 @@
+/**
+ * Content
+ */
+
 body {
-	background-color: black;
+    cursor: url("https://files.cargocollective.com/c340194/icone_fleche.png"), pointer;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+}
+
+a:visited {
+}
+
+a:hover {
+    font-style: italic; 
+}
+
+a:active {
+	opacity: 1;
+    text-decoration: none;
 }
