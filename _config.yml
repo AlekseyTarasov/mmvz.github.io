@@ -1,16 +1,14 @@
-# User config
-author: "Pineapple"
-tagline: "Pineapple Certfied Jekyll Theme"
-description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
-keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
-linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+title: mmvz
+email: your@cornishmouth.cc
+description: >- # this means to ignore newlines until "baseurl:"
 
-# Site config
-baseurl: ""
-highlighter: rouge
-sass:
-  sass_dir: assets/scss
-  style: compressed
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  AlekseyTarasov
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+plugins:
+  - jekyll-feed
